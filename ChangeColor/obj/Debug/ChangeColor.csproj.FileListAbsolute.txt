@@ -1,0 +1,11 @@
+C:\Users\Office\RiderProjects\ChangeColor\ChangeColor\bin\Debug\ChangeColor.exe.config
+C:\Users\Office\RiderProjects\ChangeColor\ChangeColor\bin\Debug\ChangeColor.exe
+C:\Users\Office\RiderProjects\ChangeColor\ChangeColor\bin\Debug\ChangeColor.pdb
+C:\Users\Office\RiderProjects\ChangeColor\ChangeColor\obj\Debug\ChangeColor.csprojAssemblyReference.cache
+C:\Users\Office\RiderProjects\ChangeColor\ChangeColor\obj\Debug\ChangeColor.Properties.Resources.resources
+C:\Users\Office\RiderProjects\ChangeColor\ChangeColor\obj\Debug\ChangeColor.csproj.GenerateResource.cache
+C:\Users\Office\RiderProjects\ChangeColor\ChangeColor\obj\Debug\ChangeColor.csproj.CoreCompileInputs.cache
+C:\Users\Office\RiderProjects\ChangeColor\ChangeColor\obj\Debug\ChangeColor.exe
+C:\Users\Office\RiderProjects\ChangeColor\ChangeColor\obj\Debug\ChangeColor.pdb
+C:\Users\Office\RiderProjects\ChangeColor\ChangeColor\obj\Debug\ChangeColor.ChangeColor.resources
+C:\Users\Office\RiderProjects\ChangeColor\ChangeColor\obj\Debug\ChangeColor.OpenImage.resources
